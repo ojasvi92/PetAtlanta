@@ -3,14 +3,16 @@ Prototype for an online marketplace for selling dry dog food by employing requir
 
 This website prototype has the following pages:
 
-1. Product Listings Page (Category-wise)
-2. Individual Product Details page
-3. Cart page
-4. Account creation (Add payment details) Page
-5. Login Page
-6. Check-out Page
-7. Order History Page
-8. User Profile Page
+1. Home Page
+2. Product Listings Page (Category-wise)
+3. Individual Product Details page
+4. Cart page
+5. Account creation (Add payment details) Page
+6. Login Page
+7. Check-out Page
+8. Order History Page
+9. User Profile Page
+10. About Us Page
 
 * It has basic functionality where a buyer can check details of a product and add it to the cart and then proceed to checkout or continue shopping. 
 * Before placing an order, the buyer is required to create a user account first and add their card details.
